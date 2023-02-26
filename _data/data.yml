@@ -84,7 +84,18 @@ experiences:
       time: 2018 - 2020
       company: Kumparan, Jakarta
       details: |
-        Maintained and developed micro-service based apps. Tech stack: Go, GraphQL, gRPC, NATS Streaming, Elasticsearch, etc.
+        As a back-end engineer, I was responsible to:
+        - Collaborate with the product & data team to build new features
+        - Collaborate with the front-end and SRE team
+        - Analyze and design the system
+        - Maintain services to achieve high availability and improve their performance
+        - Review merge requests and refactor the code for better readable code 
+        - Debug and fix bugs
+    - role: Web Application Developer
+      time: 2016 - 2018
+      company: Cybertrend Intrabuana, Jakarta
+      details: |
+        Build apps based on client requirements.
 
 skills:
   title: Skills &amp; Proficiency
@@ -93,13 +104,16 @@ skills:
     - name: Go
       level: 90%
 
-    - name: gRPC
-      level: 75%
-
     - name: Microservices
       level: 80%
 
-    - name: Ruby on Rails
+    - name: gRPC
+      level: 75%
+
+    - name: Elasticsearch
+      level: 75%
+
+    - name: Redis
       level: 70%
 
     - name: GraphQL
@@ -107,3 +121,6 @@ skills:
 
     - name: SQL
       level: 70%
+
+    - name: Ruby on Rails
+      level: 50%
