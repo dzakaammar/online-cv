@@ -67,39 +67,24 @@ experiences:
       time: 2022 - Present
       company: Mid Solusi Nusantara (Mekari), Jakarta
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Part of Contextual Financial Services tribe. Some of my responsibilities are:
+          - Build a new product and taking responsibility for analyzing, designing, and implementing the features.
+          - Take part in analyzing and designing the product by collaborating with the domain expert.
+          - Write some RFCs to design and propose solutions and share the knowledge within the team.
+          - Contribute and help the team by assisting and mentoring the team member.
     - role: Senior Backend Engineer
       time: 2020 - 2022
       company: LinkAja, Jakarta
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Part of Core Payment Unit, Core Engineering Group. 
+          - Re-build the middle-ware application using Go.
+          - Participate in the core migration project.
+          - Integrate the middle-ware application with the new core system
     - role: Backend Engineer
       time: 2018 - 2020
       company: Kumparan, Jakarta
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Maintained and developed micro-service based apps. Tech stack: Go, GraphQL, gRPC, NATS Streaming, Elasticsearch, etc.
 
 skills:
   title: Skills &amp; Proficiency
