@@ -50,7 +50,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I'm a software engineer specializing in backend engineering with more than 5 years of experience in several business domains, including Entertainment & Media, Fintech and Payment, and SaaS.
+    I'm a software engineer specializing in backend engineering with more than 8 years of experience in several business domains, including Entertainment & Media, Fintech and Payment, and SaaS.
 education:
   title: Education
   info:
@@ -72,6 +72,8 @@ experiences:
           - Take part in analyzing and designing the product by collaborating with the domain expert.
           - Write some RFCs to design and propose solutions and share the knowledge within the team.
           - Contribute and help the team by assisting and mentoring the team member.
+
+        Tech stacks: Go, Ruby on Rails, PostgreSQL, Redis, Apache Kafka, AWS, Kubernetes.
     - role: Senior Backend Engineer
       time: 2020 - 2022
       company: LinkAja, Jakarta
@@ -80,22 +82,26 @@ experiences:
           - Re-build the middle-ware application using Go.
           - Participate in the core migration project.
           - Integrate the middle-ware application with the new core system
+
+        Tech stacks: Go, PostgreSQL, Redis, AWS, Kubernetes.
     - role: Backend Engineer
       time: 2018 - 2020
       company: Kumparan, Jakarta
       details: |
         As a back-end engineer, I was responsible to:
-        - Collaborate with the product & data team to build new features
-        - Collaborate with the front-end and SRE team
-        - Analyze and design the system
-        - Maintain services to achieve high availability and improve their performance
-        - Review merge requests and refactor the code for better readable code 
-        - Debug and fix bugs
+          - Collaborate with the product & data team to build new features
+          - Collaborate with the front-end and SRE team
+          - Analyze and design the system
+          - Maintain microservices to achieve high availability.
+
+        Tech stacks: Go, CockroachDB, Redis, Elasticsearch, GraphQL, NATS, AWS, Kubernetes, gRPC, etc.
     - role: Web Application Developer
       time: 2016 - 2018
       company: Cybertrend Intrabuana, Jakarta
       details: |
         Build apps based on client requirements.
+
+        Tech stacks: PHP, Laravel, MySQL, Javascript.
 
 skills:
   title: Skills &amp; Proficiency
@@ -104,22 +110,16 @@ skills:
     - name: Go
       level: 90%
 
-    - name: Microservices
-      level: 80%
-
-    - name: gRPC
-      level: 75%
+    - name: SQL
+      level: 85%
 
     - name: Elasticsearch
-      level: 75%
+      level: 70%
 
     - name: Redis
       level: 70%
 
     - name: GraphQL
-      level: 70%
-
-    - name: SQL
       level: 70%
 
     - name: Ruby on Rails
